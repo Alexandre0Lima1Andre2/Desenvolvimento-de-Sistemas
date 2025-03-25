@@ -1,0 +1,7 @@
+C:\Users\Aluno\source\repos\Herança\Herança\bin\Debug\Herança.exe.config
+C:\Users\Aluno\source\repos\Herança\Herança\bin\Debug\Herança.exe
+C:\Users\Aluno\source\repos\Herança\Herança\bin\Debug\Herança.pdb
+C:\Users\Aluno\source\repos\Herança\Herança\obj\Debug\Herança.csproj.AssemblyReference.cache
+C:\Users\Aluno\source\repos\Herança\Herança\obj\Debug\Herança.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\source\repos\Herança\Herança\obj\Debug\Herança.exe
+C:\Users\Aluno\source\repos\Herança\Herança\obj\Debug\Herança.pdb
