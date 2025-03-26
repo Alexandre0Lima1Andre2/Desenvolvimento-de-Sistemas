@@ -14,10 +14,16 @@ namespace Herança
             Pessoa p1 = new Pessoa();
             Aluno a1 = new Aluno();
 
-            a1.nome = "Alexandre";
+            a1.cadastrarDados("Alexandre");//a1.cadastrarDados();
             a1.curso = "Engenharia de Software";
             a1.mostraDados();
             a1.mostraCurso();
+
+
+            a1.definirSenha("olaMundo");
+            a1.cadastrar();
+            a1.mostrarCpf();
+
 
         }
     }

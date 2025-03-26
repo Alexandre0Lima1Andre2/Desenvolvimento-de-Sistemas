@@ -9,23 +9,41 @@ namespace Herança
 {
     internal class Pessoa
     {
-       
 
-        public string nome;
+     
+        protected string nome;
         public string email;
         public string idade;
-        public string cpf;
+        private string cpf;
         public string altura;
         public string peso;
+        
 
         public void mostraDados()
         {
+   
             Console.WriteLine("Nome:{0}",nome);
 
         }
+
+        public void cadastrarDados(string nome)
+        {
+            this.nome = nome;
+        }
+
         
-        
-       
+        public void cadastrarCpf(string cpf)
+        {
+                this.cpf = cpf;
+        }
+        public void mostrarCpf()
+        {
+        Console.WriteLine("CPF:{0}", cpf);
+        }
+
+
+
+
 
 
     }
